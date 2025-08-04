@@ -1,13 +1,43 @@
-# FIFA20-Data-Exploration-using-Python
+# FIFA20 Data Exploration using Python
 
-In this code we do the following tasks through these steps:
+This project is part of the **Google Data Analytics Certificate (Coursera - Guided Project)**, where I explored and visualized FIFA20 player data using **Python**, **Pandas**, **Matplotlib**, and **Plotly**.
 
-1)importing FIFA20 players dataset and take a look at the columns.
+## 📊 Project Overview
 
-2)prepare our dataset for Data exploration by dropping useless columns and calculating new features.
+The goal of this project is to perform **exploratory data analysis (EDA)** on FIFA20 player data and gain meaningful insights. The dataset includes detailed information about players in the FIFA20 video game.
 
-3)Plotting a scatter plot to see the relationship between the Overall ratings and age of the players and their price.
+### ✅ Key Steps
 
-4)Plotting a pie chart to see the proportion of right-foot players and left-foot players.
+1. **Imported FIFA20 datasets (5 CSVs)**
+2. **Cleaned and preprocessed data**:
+   - Removed irrelevant columns
+   - Handled missing values
+   - Created new features
+3. **Performed feature engineering** for better insights
+4. **Created visualizations**:
+   - Scatter plots (Overall Rating vs Age, Price)
+   - Pie charts (Right-footed vs Left-footed players)
+   - Polar charts (Player growth over time)
+5. **Built a player recommender function** based on position and value
 
-5)Creating a method to plot a Scatterpolar for comparing a Players growth over Time.
+## 🧰 Tools & Technologies
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Plotly  
+- Jupyter Notebook  
+- Data Cleaning, Feature Engineering, EDA
+
+## 💡 Skills Practiced
+
+- Data Manipulation  
+- Data Cleansing  
+- Feature Engineering  
+- Exploratory Data Analysis  
+- Data Visualization  
+- Predictive Modeling
+
+## 📜 Certificate
+
+This project is part of the hands-on guided project from Coursera's Rhyme platform.  
